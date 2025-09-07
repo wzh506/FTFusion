@@ -1,0 +1,8 @@
+
+
+1.运行方法
+
+g++ fusion_kalman.cpp -o fusion_kalman
+./fusion_kalman
+
+目前只有一个程序，以后可能写为代码库
