@@ -6,3 +6,5 @@ g++ fusion_kalman.cpp -o fusion_kalman
 ./fusion_kalman
 
 目前只有一个程序，以后可能写为代码库
+
+2.运行时需要使用环境diffpolo，应为依赖这个环境下面的ncurses
